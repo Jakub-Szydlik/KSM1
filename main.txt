@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moja Prosta Strona</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #555;
+        }
+        ul {
+            list-style-type: square;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Witaj na mojej prostej stronie!</h1>
+    <p>To jest przykładowa strona HTML. Możesz ją edytować i dostosować do swoich potrzeb.</p>
+    
+    <h2>Lista rzeczy do zrobienia:</h2>
+    <ul>
+        <li>Nauczyć się HTML</li>
+        <li>Nauczyć się CSS</li>
+        <li>Nauczyć się JavaScript</li>
+    </ul>
+
+    <h2>Obrazek:</h2>
+    <img src="https://via.placeholder.com/600x400" alt="Przykładowy obrazek">
+
+    <p>Strona stworzona z ❤️ przez Ciebie!</p>
+</body>
+</html>
